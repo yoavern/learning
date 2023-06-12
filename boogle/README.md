@@ -1,4 +1,6 @@
-This is the final project for the course "Introduction to Computer Science" at the Hebrew University. My partner, Gal Bloch, and I collaborated on this project. Our objective was to create an interactive version of the game Boggle. Allow me to explain how the game works:
+This is the final project for the course "Introduction to Computer Science" at the Hebrew University. My partner, Gal Bloch, and I collaborated on this project. Our objective was to create an interactive version of the game Boggle. This is the explanation of the game by chat gpt: 
+
+Allow me to explain how the game works:
 
 Boggle is a word game that challenges players to find as many words as possible within a predetermined set of letters. Typically, it is played on a 4x4 grid of letter cubes, although larger grids can also be used.
 
