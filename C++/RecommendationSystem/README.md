@@ -1,4 +1,4 @@
-#Movie Recommendation System
+# Movie Recommendation System
 
 Welcome to my final project for the C++ course! In this project, 
 I have developed a movie recommendation system that provides personalized movie suggestions based on the user's previously rated movies. 
