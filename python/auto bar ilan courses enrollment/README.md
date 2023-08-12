@@ -15,7 +15,7 @@ This project contains an automation script developed using Selenium that facilit
 - Selenium library
 - Chrome or Firefox WebDriver (ensure compatibility with your browser version)
 
-##Usage
+## Usage
 1. Update the script with your university login credentials.
 2. Adjust the script to select the desired courses for enrollment.
 3. Run the script using the following command - python enrollment.py.
