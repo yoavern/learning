@@ -31,7 +31,7 @@ Before running the script, make sure you have the following prerequisites:
 
 6. To stop the attack, press Ctrl+C. The script will attempt to restore the network to its normal state.
 
-Note: Make sure to enable IP forwarding on your machine for the attack to work properly.
+**Note:** Make sure to enable IP forwarding on your machine for the attack to work properly.
 
 ## Disclaimer
 
