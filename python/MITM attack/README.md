@@ -19,9 +19,6 @@ Before running the script, make sure you have the following prerequisites:
 
 1. Clone this repository to your local machine:
 
-    ```bash
-   git clone https://github.com/yourusername/arp-spoofing-script.git
-
 2.   ```bash
      cd arp-spoofing-script
 
