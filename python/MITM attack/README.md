@@ -17,7 +17,7 @@ Before running the script, make sure you have the following prerequisites:
 
 ## Usage
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine.
 
 2.   ```bash
      cd arp-spoofing-script
