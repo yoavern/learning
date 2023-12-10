@@ -2,12 +2,14 @@
 
 ## Introduction
 
-Welcome to the Course Scheduler project! This tool is designed to help students efficiently plan their course schedules based on various factors such as distribution of hours, lesson conflicts, and flexibility in start and end times of the day.
+Welcome to the Course Scheduler project! This tool is designed to help students efficiently plan their course schedules based on various factors such as distribution of hours, lesson conflicts, distance between classes etc.
 
 ## Getting Started
 ### Prerequisites
 -Python 3.x
+
 -Selenium
+
 -Chrome WebDriver - make sure it's compatible with the chrome version you have.
 
 # Installation
@@ -18,7 +20,7 @@ Welcome to the Course Scheduler project! This tool is designed to help students 
 ## Usage
 1. Open the terminal.
 2. Navigate to the project directory.
-3. Run the script with the desired arguments:
+3. Run the script with the desired arguments, for example:
 
    ```bash
    python courses_scheduler.py -c 67200 83328 67651 83326 80314 83315 -y 2024 -s 2 -df 4 -cf 50 -daf 7 -saf 1 -eaf 1 -tgf 2
@@ -35,7 +37,7 @@ Welcome to the Course Scheduler project! This tool is designed to help students 
      - `-eaf` or `--end_at_factor`: End at factor (default is 1).
      - `-tgf` or `--time_gap_factor`: Time gap factor (default is 2).
    
-	for more informaiton check auto_curriculum -h.
+	for more informaiton check auto_curriculum.py -h.
 
 
 ## Usage - another option
@@ -48,7 +50,7 @@ courses = {67200, 83328, 67651, 83326, 80314, 83315}  # Add or modify course IDs
 year = 2024  # Set the desired academic year
 semester_chosen = 2  # 1 for semester A, 2 for semester B
 ```
-3.ptionally, you can adjust additional parameters such as distribution factor, conflict factor, days factor, start and end time factors, and time gap factor based on your preferences. These factors influence the optimization criteria for generating the best schedule.
+3.optionally, you can adjust additional parameters such as distribution factor, conflict factor, days factor, start and end time factors, and time gap factor based on your preferences. These factors influence the optimization criteria for generating the best schedule.
 
 ```python
 DISTRIBUTION_FACTOR = 4
