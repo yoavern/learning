@@ -66,8 +66,7 @@ python courses_scheduler.py
 ```
 5. Follow the prompts to view the generated schedule and interact with the Digmi website to visualize the results.
 
-
-
+## Video Demonstrating
 https://github.com/yoavern/learning/assets/133568608/0786e495-63db-406a-8717-96d8fd9b25af
 
 
