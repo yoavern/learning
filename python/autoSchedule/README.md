@@ -62,7 +62,7 @@ TIME_GAP_FACTOR = 2
 ```
 4. Run the script:
 ```bash
-python courses_scheduler.py
+python auto_schedule.py
 ```
 5. Follow the prompts to view the generated schedule and interact with the Digmi website to visualize the results.
 
