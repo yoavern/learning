@@ -66,6 +66,10 @@ python auto_schedule.py
 ```
 5. Follow the prompts to view the generated schedule and interact with the Digmi website to visualize the results.
 
+## Overview
+The Auto Schedule is a Python script designed to assist users in generating and optimizing schedules for their selected courses. The script pulls information about the courses from the Digmi website, analyzes the data, generates all possible course schedules, scores each schedule based on certain factors, selects the best-scoring schedule, and finally, displays the chosen schedule on the Digmi website.
+
+
 ## Video Demonstrating
 
 https://github.com/yoavern/learning/assets/133568608/4ea82cbd-1442-434c-afff-216f36a3e6e9
