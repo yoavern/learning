@@ -23,7 +23,7 @@ Welcome to the Auto Schedule project! This tool is designed to help students eff
 3. Run the script with the desired arguments, for example:
 
    ```bash
-   python courses_scheduler.py -c 67200 83328 67651 83326 80314 83315 -y 2024 -s 2 -df 4 -cf 50 -daf 7 -saf 1 -eaf 1 -tgf 2
+   python auto_schedule.py -c 67200 83328 67651 83326 80314 83315 -y 2024 -s 2 -df 4 -cf 50 -daf 7 -saf 1 -eaf 1 -tgf 2
    ```
 
    - `-c` or `--courses`: Specify the courses by providing their IDs.
