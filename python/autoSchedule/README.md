@@ -1,8 +1,8 @@
-# Course Scheduler Readme
+# Auto Schedule Readme
 
 ## Introduction
 
-Welcome to the Course Scheduler project! This tool is designed to help students efficiently plan their course schedules based on various factors such as distribution of hours, lesson conflicts, distance between classes etc.
+Welcome to the Auto Schedule project! This tool is designed to help students efficiently plan their course schedules based on various factors such as distribution of hours, lesson conflicts, distance between classes etc.
 
 ## Getting Started
 ### Prerequisites
